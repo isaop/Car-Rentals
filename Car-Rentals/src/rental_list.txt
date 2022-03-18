@@ -1,0 +1,12 @@
+1;Car with id: 1, make: BMW, price: 11000, year: 2015. 
+;George;12.11.2021
+2;Car with id: 2, make: Opel, price: 6000, year: 2013. 
+;Andrei;12.11.2021
+3;Car with id: 3, make: VW, price: 8000, year: 2015. 
+;George;12.11.2021
+4;Car with id: 3, make: VW, price: 8000, year: 2015. 
+;Mara;13.11.2021
+5;Car with id: 4, make: Volvo, price: 20000, year: 2018. 
+;George;14.12.2021
+6;Car with id: 4, make: Volvo, price: 20000, year: 2018. 
+;Oana;16.12.2022
